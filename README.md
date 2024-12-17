@@ -79,11 +79,13 @@ Before running the script, ensure you have the following installed:
 
 ### Training Set:
 
-![train](C:\Users\ASUS\Pictures\Screenshots\Train.png)
+![Train](https://github.com/user-attachments/assets/472aaf22-fd51-4599-bf59-38e7d658279a)
+
 
 ### Test Set:
 
-![test](C:\Users\ASUS\Pictures\Screenshots\test.png)
+![test](https://github.com/user-attachments/assets/3e4fe03c-b9bb-4e0a-a17a-62b36c7ac84a)
+
 
 (Replace `#` with links to the images of the visualizations if applicable.)
 
