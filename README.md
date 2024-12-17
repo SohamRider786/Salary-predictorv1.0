@@ -79,11 +79,11 @@ Before running the script, ensure you have the following installed:
 
 ### Training Set:
 
-![Training Set Plot](#)
+![C:\Users\ASUS\Pictures\Screenshots\Train.png](#)
 
 ### Test Set:
 
-![Test Set Plot](#)
+![C:\Users\ASUS\Pictures\Screenshots\test.png](#)
 
 (Replace `#` with links to the images of the visualizations if applicable.)
 
